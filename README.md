@@ -1,1 +1,1 @@
-!(spin view)[s1.png]
+![spin](s1.png)
